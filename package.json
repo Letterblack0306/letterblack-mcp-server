@@ -1,0 +1,16 @@
+{
+  "name": "letterblack-mcp-server",
+  "version": "1.0.0",
+  "description": "MCP server for LetterBlack knowledge base",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.25.3"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
