@@ -9,7 +9,9 @@
   },
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.25.3",
-    "screenshot-desktop": "^1.15.3"
+    "@nut-tree-fork/nut-js": "^4.2.6",
+    "screenshot-desktop": "^1.15.3",
+    "sharp": "^0.34.5"
   },
   "engines": {
     "node": ">=18.0.0"
