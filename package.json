@@ -8,7 +8,8 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "@modelcontextprotocol/sdk": "^1.25.3"
+    "@modelcontextprotocol/sdk": "^1.25.3",
+    "screenshot-desktop": "^1.15.3"
   },
   "engines": {
     "node": ">=18.0.0"
