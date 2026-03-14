@@ -8,8 +8,10 @@
     "start": "node server.js"
   },
   "dependencies": {
+    "@google/generative-ai": "^0.24.1",
     "@modelcontextprotocol/sdk": "^1.25.3",
     "@nut-tree-fork/nut-js": "^4.2.6",
+    "dotenv": "^17.3.1",
     "screenshot-desktop": "^1.15.3",
     "sharp": "^0.34.5"
   },
